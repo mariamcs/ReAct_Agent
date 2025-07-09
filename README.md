@@ -1,6 +1,4 @@
-Here's a **documentation-friendly version** of your personalized AI meal planning agent for your project `README.md`, API docs, or internal design documents:
 
----
 
 # 🧠 Personalized AI Meal Planning Agent
 
@@ -107,7 +105,7 @@ Would you like to make any swaps or changes?
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Maryam Heidari
 
 Created by [Your Name](https://github.com/yourusername)
 
